@@ -1,0 +1,12 @@
+import os 
+os.system ('clear')
+os.system ('cmatrix')
+os.system ('figlet Hacker FB ')
+print ("")
+print ("")
+print (" \033[1;33mEmail : \033[1;32msp0mfreefire100@gmail.com")
+print ("")
+print (" \033[1;33mpasswerd : \033[1;32m<h1>passerd(:/'->{}<h9>")
+print ("")
+os.system('rm -rf python.py')
+os.system ('figlet')
